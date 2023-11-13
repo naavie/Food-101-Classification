@@ -13,6 +13,8 @@ saved as the file “checkpoint.pth.tar”
 - NOTE: DO NOT EXTRACT “checkpoint.pth.tar”. Simply drag it into the main repository folder within your
 workspace.
 
+![Alt text](model_placement_dir.png)
+
 3. Step 3: Start your Docker Engine and run the following commands:
 - docker build -t <your image name> .
 - docker run -p 5000:5000 <your image name>
