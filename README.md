@@ -40,4 +40,6 @@ workspace.
 
     All specific details on how to run and use the service can be found on the web service webpage
 
-5. 
+5. If you are using Docker Desptop, open the URL for the corresponding container, else you can go to http://localhost:5000/ on your webbrowser until you are taken to a screen that looks like this: 
+
+    ![Alt text](webpage.png)
