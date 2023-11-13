@@ -43,3 +43,5 @@ workspace.
 5. If you are using Docker Desptop, open the URL for the corresponding container, else you can go to http://localhost:5000/ on your webbrowser until you are taken to a screen that looks like this: 
 
     ![Alt text](webpage.png)
+
+6. You're all set! Scroll to the Live Demonstration section and upload your image. Click Upload and the page will refresh and your Image Class prediction will be shown on the "Image Prediction" line. 
