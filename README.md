@@ -15,7 +15,11 @@ workspace.
 
 ![Alt text](model_placement_dir.png)
 
-3. Step 3: Start your Docker Engine and run the following commands:
+3. Open the repository in VSCode or your preferred code editor program: 
+
+![Alt text](Open_VSCode.png)
+
+4. Start your Docker Engine and run the following commands in Command Prompt/Terminal:
 - docker build -t <"your image name"> .
 - docker run -p 5000:5000 <"your image name">
 
