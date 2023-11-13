@@ -23,9 +23,11 @@ workspace.
 
 - docker build -t <"your image name"> .
 
-
+    ![Alt text](dockerbuilt_example.png)
 
 - docker run -p 5000:5000 <"your image name">
+
+    ![Alt text](dockerrun_example.png)
 
     Please replace <"your image name"> with any name of your choosing and without the <> symbols. Please also
     run the docker run command in a command prompt terminal. Do not run it within an integrated code editor like
