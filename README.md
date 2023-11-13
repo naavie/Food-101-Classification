@@ -1,2 +1,2 @@
-# LSML2-Public_FP
- 
+# LSML2-FP
+ Final Project for LSML2

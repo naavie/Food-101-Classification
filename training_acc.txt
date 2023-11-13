@@ -1,0 +1,112 @@
+Training for 14 epochs on 1 GPU(s).
+Epoch 1 / 14
+Training loss: 2.0432629585266113
+Training accuracy: 0.5347259044647217
+Validation loss: 1.52080237865448
+Validation accuracy: 0.6410666704177856
+
+Total training time was 367.214152097702 seconds.
+
+Epoch 2 / 14
+Training loss: 1.229315161705017
+Training accuracy: 0.704444408416748
+Validation loss: 1.1371982097625732
+Validation accuracy: 0.7237333655357361
+
+Total training time was 733.8126406669617 seconds.
+
+Epoch 3 / 14
+Training loss: 0.8809308409690857
+Training accuracy: 0.7841481566429138
+Validation loss: 0.9650610685348511
+Validation accuracy: 0.7567999958992004
+
+Total training time was 1100.878668308258 seconds.
+
+Epoch 4 / 14
+Training loss: 0.6587837338447571
+Training accuracy: 0.8402962684631348
+Validation loss: 0.8809050917625427
+Validation accuracy: 0.7781333327293396
+
+Total training time was 1465.950237751007 seconds.
+
+Epoch 5 / 14
+Training loss: 0.48785531520843506
+Training accuracy: 0.8866666555404663
+Validation loss: 0.8360317349433899
+Validation accuracy: 0.7885333299636841
+
+Total training time was 1830.9918558597565 seconds.
+
+Epoch 6 / 14
+Training loss: 0.351589173078537
+Training accuracy: 0.9258962869644165
+Validation loss: 0.8094191551208496
+Validation accuracy: 0.7864000201225281
+
+Total training time was 2197.717853784561 seconds.
+
+Epoch 7 / 14
+Training loss: 0.24591365456581116
+Training accuracy: 0.9553777575492859
+Validation loss: 0.7985988855361938
+Validation accuracy: 0.7944000363349915
+
+Total training time was 2563.575574874878 seconds.
+
+Epoch 8 / 14
+Training loss: 0.16580402851104736
+Training accuracy: 0.9756444096565247
+Validation loss: 0.8025572896003723
+Validation accuracy: 0.7919999957084656
+
+Total training time was 2929.609655380249 seconds.
+
+Epoch 9 / 14
+Training loss: 0.11190182715654373
+Training accuracy: 0.9866370558738708
+Validation loss: 0.8013766407966614
+Validation accuracy: 0.7898666858673096
+
+Total training time was 3296.807038784027 seconds.
+
+Epoch 10 / 14
+Training loss: 0.07555746287107468
+Training accuracy: 0.9924740791320801
+Validation loss: 0.7989142537117004
+Validation accuracy: 0.79093337059021
+
+Total training time was 3661.410085916519 seconds.
+
+Epoch 11 / 14
+Training loss: 0.05104130879044533
+Training accuracy: 0.99579256772995
+Validation loss: 0.8070665001869202
+Validation accuracy: 0.7917333245277405
+
+Total training time was 4029.4044234752655 seconds.
+
+Epoch 12 / 14
+Training loss: 0.035374484956264496
+Training accuracy: 0.9976296424865723
+Validation loss: 0.8069051504135132
+Validation accuracy: 0.7968000173568726
+
+Total training time was 4394.915893793106 seconds.
+
+Epoch 13 / 14
+Training loss: 0.024688592180609703
+Training accuracy: 0.9986962676048279
+Validation loss: 0.8245452642440796
+Validation accuracy: 0.793066680431366
+
+Total training time was 4761.014368772507 seconds.
+
+Epoch 14 / 14
+Training loss: 0.01776007004082203
+Training accuracy: 0.9994962811470032
+Validation loss: 0.8134047985076904
+Validation accuracy: 0.7970666885375977
+
+Total training time was 5127.63600897789 seconds.
