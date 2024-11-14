@@ -1,6 +1,3 @@
-# LSML2-FP
- Final Project for LSML2
-
 1. Download the required materials:
 
 - Github Repository: https://github.com/naavie/LSML2-Public_FP
