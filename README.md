@@ -1,6 +1,6 @@
 1. Download the required materials:
 
-- Github Repository: https://github.com/naavie/LSML2-Public_FP
+- Github Repository: https://github.com/naavie/Food-101-Classification
 - Pre-trained ResNet-50 model: https://drive.google.com/uc?id=1JfJD0tFnnI3iOCQTP2lwnvmV8oPmsQXy&export=download
 
 2. After downloading the Github repository, download the pre-trained ResNet-50 model by following the link
